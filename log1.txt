@@ -1,0 +1,10 @@
+Meal                  Calories
+------------------------------
+J                          323
+K                           32
+Kf                           2
+==============================
+Total                      357
+Average                    119
+
+WARNING: Limit exceeded by 17 calorie(s)!
